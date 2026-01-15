@@ -18,8 +18,6 @@ I am an aspiring **Data Scientist / Data Analyst** with hands on experience buil
 📊 Featured Projects: 
 - **Customer Churn Prediction:**
   Built classification models to predict churn, handled class imbalance and optimised for ROC-AUC and accuracy.
-- **Oil Exploration Profit Analysis:**
-  Simulated profits using linear regression and bootstrapping to recommend most profitable region under risk constraints.
 - **Video Game Sales Analysis:**
   Analysed global sales trends, platforms, genres , user behaviour, statistical hypothesis testing to identify patterns of commercial success.
 - **Gold Ore Extraction Prediction:**
