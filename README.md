@@ -25,12 +25,12 @@ I am a **Data Scientist / Data Analyst** with hands on experience building end-t
 
 🌱 Currently learning:
 - Advanced feature engineering.
-- Model interpretability (SHAP, feature importance)
+- Fraud/Anomaly detection.
 - Model piplines and optimisations
 
 💼 Career Goals: 
 
-I am actively seeking a **junior data science or data analyst** role where I can apply data driven thinking to real business problems and continue my growth as a data professional. 
+I am actively seeking a **junior data science or data analyst (or related position)** role where I can apply data driven thinking to real business problems and continue my growth as a data professional. 
 
 
 📫 Let's Connect: 
