@@ -1,5 +1,5 @@
 ## Hi I'm Michael 👋
-I am an aspiring **Data Scientist / Data Analyst** with hands on experience building end-to-end data projects using real world data. Focus on turning data into actionable insights with clean analysis, statistical reasoning and machine learning. All while keeping company and business objectives in mind. 
+I am a **Data Scientist / Data Analyst** with hands on experience building end-to-end data projects using real world data. Focus on turning data into actionable insights with clean analysis, statistical reasoning and machine learning. All while keeping company and business objectives in mind. 
 
 🔍 What I work on:
  - Exploratory Data Analysis (EDA) and data visualisation
